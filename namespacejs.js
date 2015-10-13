@@ -4,7 +4,7 @@
  * A tiny library for creating JavaScript namespaces on the fly.
  *
  * @see    https://github.com/jaffog/namespacejs
- * @author Michiel Bakker (https)
+ * @author Michiel Bakker (https://nl.linkedin.com/in/mmbakker)
  *
  * @license MIT
  *
