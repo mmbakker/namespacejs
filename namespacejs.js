@@ -107,7 +107,7 @@ var Namespace = (function(window){
         // If object specified, register its contents to the namespace.
         if (object) {
             for (name in object) {
-                target[name] = object;
+                target[name] = object[name];
             }
         }
     }
