@@ -1,0 +1,25 @@
+{
+  "name": "namespacejs",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jaffog/namespacejs",
+  "authors": [
+    "Michiel Bakker <jaffog@gmail.com>"
+  ],
+  "description": "Tiny API for generating JavaScript namespaces on the fly.",
+  "main": "lib/namespacejs.js",
+  "moduleType": [],
+  "keywords": [
+    "javascript",
+    "namespace",
+    "tiny",
+    "api"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
