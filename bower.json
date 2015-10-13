@@ -6,7 +6,7 @@
     "Michiel Bakker <jaffog@gmail.com>"
   ],
   "description": "Tiny API for generating JavaScript namespaces on the fly.",
-  "main": "lib/namespacejs.js",
+  "main": "namespacejs.js",
   "moduleType": [],
   "keywords": [
     "javascript",
