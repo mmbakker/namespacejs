@@ -30,6 +30,14 @@
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
+ * ------------------------------------------------------------------------------
+ *
+ * USAGE
+ *
+ * Namespace('org.example', { name: 'value' }); // org.example.name === 'value'
+ *
+ * var foobar = { ... };
+ * Namespace('org.example.models', { foobar: foobar }); // org.example.models.foobar === foobar
  */
 var Namespace = (function(window){
 
